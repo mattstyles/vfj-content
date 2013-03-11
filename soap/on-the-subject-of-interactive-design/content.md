@@ -4,7 +4,8 @@ Interaction design, according to [Wikipedia](http://en.wikipedia.org/wiki/Intera
 
 In contrast to the product of designing interactive elements the outcome of designing for print is a far more passive affair for the consumer and it is an art that has developed incredibly adept solutions for breaking the passivity and engaging the consumer.  Part of the AIGA definition of [Graphic Design](http://www.aiga.org/guide-whatisgraphicdesign/ "What is Graphic Design | AIGA") states that:
 
-> graphic designers learn how to construct a message and how to present it successfully
+> Graphic designers learn how to construct a message and how to present it successfully
+
 > Definition of Graphic Design — AIGA
 
 It is the presentation that is purposeful in Graphic Design, using images, type and symbology as primary mediums to present information and engage consumers of the content.  Each of these disciplines is a great work of study in and of itself and together are a powerful combination in the hands of the right designer.
