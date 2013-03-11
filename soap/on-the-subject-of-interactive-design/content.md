@@ -1,6 +1,6 @@
 # On the subject of interactive design
 
-Interaction design, according to [Wikipedia](http://en.wikipedia.org/wiki/Interaction_design "Interaction Design | Wikipedia) (amongst others) is “about shaping digital things for people’s use”, or, “the practise of designing interactive digital products, environments, systems and services”.  Surely this definition is even more prevalent today to the discipline of designing products for the web than it ever has been?
+Interaction design, according to [Wikipedia](http://en.wikipedia.org/wiki/Interaction_design "Interaction Design | Wikipedia) (amongst others) is “_about shaping digital things for people’s use_”, or “_the practise of designing interactive digital products, environments, systems and services_”.  Surely this definition is even more prevalent today to the discipline of designing products for the web than it ever has been?
 
 In contrast to the product of designing interactive elements the outcome of designing for print is a far more passive affair for the consumer and it is an art that has developed incredibly adept solutions for breaking the passivity and engaging the consumer.  Part of the AIGA definition of [Graphic Design](http://www.aiga.org/guide-whatisgraphicdesign/ "What is Graphic Design | AIGA) states that:
 
