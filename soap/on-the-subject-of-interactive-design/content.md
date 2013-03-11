@@ -6,7 +6,7 @@ In contrast to the product of designing interactive elements the outcome of desi
 
 > Graphic designers learn how to construct a message and how to present it successfully
 
-> Definition of Graphic Design — AIGA
+> Definition of Graphic Design AIGA
 
 It is the presentation that is purposeful in Graphic Design, using images, type and symbology as primary mediums to present information and engage consumers of the content.  Each of these disciplines is a great work of study in and of itself and together are a powerful combination in the hands of the right designer.
 
@@ -14,7 +14,7 @@ They are also the primary tools of early internet design and are still prevalent
 
 As designers and developers we must continue to embrace the one genuine strength that the web has over the long-established print medium—_interactivity_.
 
-## A Change In Skills
+## A Change in Skills
 
 I was very lucky to attend an excellent conference a few weeks ago with some of the best designers and developers talking about responsive design.  _Responsive Web Design_ has been a topic of discussion for quite a while and it is amazing that some companies or designers have not embraced it fully and learnt to implement it in their work flow.
 
@@ -30,9 +30,9 @@ That is not to say that there are not similarities and that all of the many less
 
 It was with sadness that I heard speakers at the conference state that they, as designers, could not code for the web and with even more sadness that some of those speakers did not seem to value possessing such a skill (thankfully, other speakers—also designers—did not share this view).  Without such a skill a designer must also rely on others to implement their ideas and then iterate their design based on feedback from that experience.  Not only is this way of working inefficient it means that design is, in effect, a static effort (or, more accurately, a _series_ of static efforts) and designing for interactivity is difficult (to say the least) from a static vantage point.
 
-## Bridging The Gap
+## Bridging the Gap
 
-### Where Design Meets Development
+### Where design meets development
 
 Responsivity is only one area of designing for the web that becomes very much more time-consuming and difficult when working from static images of design-work.  Designing for user stories becomes a series of static images, clearly a working representation of that flow is more beneficial both for the designer and for the client who has commissioned the effort.  It is embracing this dynamic workflow that is becoming increasingly important for designers.
 
