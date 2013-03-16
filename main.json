@@ -11,7 +11,7 @@
                 "loc"      : "/junction/",
                 "category" : "typography",
                 "date"     : "15th March 2013",
-                "extract"  : "<div class='text-center'><img src='/typography/junction/img/junction-3.png'/></div><p class='readmore'><a href='/typography/junction/'>Read More</a></p>"
+                "extract"  : "<p class='text-center'><img src='/typography/junction/img/junction-3.png'/></p><p class='readmore'><a href='/typography/junction/'>Read More</a></p>"
             }
         },
         {

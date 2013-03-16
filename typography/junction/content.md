@@ -1,9 +1,9 @@
 # Junction
 
 ![Junction - Red](img/junction-1.png "Junction - Red")
-
+</br>
 ![Junction - Slant](img/junction-2.png "Junction - Slant")
-
+</br>
 ![Junction - Blue](img/junction-3.png "Junction - Blue")
 
 ## Junction
@@ -20,9 +20,9 @@ Junction is a quirky sans-serif that _borrows_ some of the hand-drawn qualities 
 
 ### Links
 
-[Caroline Hadilaksono](http://www.hadilaksono.com/junction)
+* [Caroline Hadilaksono](http://www.hadilaksono.com/junction)
 
-[The League Of Moveable Type](http://www.theleagueofmoveabletype.com/junction)
+* [The League Of Moveable Type](http://www.theleagueofmoveabletype.com/junction)
 
 ---
 
