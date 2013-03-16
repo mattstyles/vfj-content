@@ -26,5 +26,5 @@ Junction is a quirky sans-serif that _borrows_ some of the hand-drawn qualities 
 
 ---
 
-Posted in [Typography](../"typography") on 16th March 2013.  _Junction_, _TheLeagueOf_, _CarolineHadilaksono_, _Typeface_
+Posted in [Typography](../ "Typography") on 16th March 2013.  _Junction_, _TheLeagueOf_, _CarolineHadilaksono_, _Typeface_
 
