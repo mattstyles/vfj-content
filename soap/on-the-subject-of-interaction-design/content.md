@@ -1,4 +1,4 @@
-# On the subject of interactive design
+# On the subject of interaction design
 
 Interaction design, according to [Wikipedia](http://en.wikipedia.org/wiki/Interaction_design "Interaction Design | Wikipedia") (amongst others) is “_about shaping digital things for people’s use_”, or “_the practise of designing interactive digital products, environments, systems and services_”.  Surely this definition is even more prevalent today to the discipline of designing products for the web than it ever has been?
 
