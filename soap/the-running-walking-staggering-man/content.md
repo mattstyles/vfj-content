@@ -1,7 +1,6 @@
 # Joe Mbu - The Running Walking Staggering Man
 
 Yesterday an old buddy of mine set off on a great adventure to run the length of the UK, [from Land's End to John O'Groats](https://maps.google.co.uk/maps?saddr=Land's+End,+Sennen,+Cornwall&daddr=John+o'+Groats&hl=en&ll=54.059388,1.142578&spn=14.915163,46.362305&sll=52.8382,-2.327815&sspn=7.660759,23.181152&geocode=FZ_X-wId6Oao_ylHcBAwN7hqSDHsbLNvvEQotA%3BFfO7fgMddy3R_ynDUr64It-aSDF0xbX1N9v4hg&oq=john+o&t=h&mra=ls&z=5 "A long long way to run"), in order to raise much-needed funds for Joedy Memorial Hospital and raise awareness about Nigeria’s healthcare problems.
-
 ![Joe Mbu - The Running Walking Staggering Man](img/getset.jpg "Joe - Running for Joedy")
 
 This epic journey, which will see Joe run 1200 miles on a winding route up the UK, is already raising funds for Joedy Memorial Hospital even though Joe only started his run yesterday, on the 29th March.  Joe will complete this feat of running (and walking, and staggering) in just over a month and half!
@@ -17,7 +16,6 @@ The funding will also go towards renovation, staffing and new equipment.  If you
 ### Good Luck Joe
 
 ![Send Off](img/sendoff.jpg)
-
 ![1000 Mile Socks](img/1000milesocks.jpg)
 
 ### Links
