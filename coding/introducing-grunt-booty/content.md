@@ -43,16 +43,13 @@ Our project is imaginatively titled ‘bootilicious‘, run these at your comman
 8 rm app/styles/main.css
 ```
 
-* _Lines 1-2_
-
+* _Lines 1-2_</br>
   Make sure __grunt__, __yeoman__, __bower__ and the __angular generator__ are all installed and ready to use _( [more info](http://yeoman.io) )_.  I’m just going to assume you have [node](http://nodejs.org/) and therefore [npm](https://npmjs.org/) installed (the plugin will run fine on 0.8 or 0.10).
 
-* _Line 3_
-
+* _Line 3_</br>
   Create the directory and move into it, ready to get our project going.
 
-* _Line 4_
-
+* _Line 4_</br>
   The meat!  Let Yeoman do it’s thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and it’s glorious lack of css.  
 
 
@@ -60,12 +57,10 @@ Our project is imaginatively titled ‘bootilicious‘, run these at your comman
 
   Let’s fix that up.
 
-* _Lines 5-6_
-
+* _Lines 5-6_</br>
   Let Bower do it’s thing and get you the latest of Bootstrap and Font-awesome-more and then let npm go and get you Grunt-booty and also Grunt-contrib-less which will compile your Less so that we can actually see the fruit of Grunt-booty in your project.
 
-* _Lines 7-8_
-
+* _Lines 7-8_</br>
   This is a little bit of manual scaffolding so that Grunt-booty has a place to move over Bootstrap and Font-awesome-more.  This step is on the roadmap for Grunt-booty to handle itself as it shouldn’t be a manual task, but for now it is so go ahead and create the `css` and `less` folders and get rid of `main.css` (you could just move it into the `css` folder if you wanted although the Less compile step will do this for you later).
 
 ### Add the main Less file and tell the index page where to find the project css
