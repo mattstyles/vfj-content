@@ -43,29 +43,30 @@ Our project is imaginatively titled ‘bootilicious‘, run these at your comman
 8 rm app/styles/main.css
 ```
 
-_Lines 1-2_
+* _Lines 1-2_
 
-Make sure __grunt__, __yeoman__, __bower__ and the __angular generator__ are all installed and ready to use _( [more info](http://yeoman.io) )_.  I’m just going to assume you have [node](http://nodejs.org/) and therefore [npm](https://npmjs.org/) installed (the plugin will run fine on 0.8 or 0.10).
+  Make sure __grunt__, __yeoman__, __bower__ and the __angular generator__ are all installed and ready to use _( [more info](http://yeoman.io) )_.  I’m just going to assume you have [node](http://nodejs.org/) and therefore [npm](https://npmjs.org/) installed (the plugin will run fine on 0.8 or 0.10).
 
-_Line 3_
+* _Line 3_
 
-Create the directory and move into it, ready to get our project going.
+  Create the directory and move into it, ready to get our project going.
 
-_Line 4_
+* _Line 4_
 
-The meat!  Let Yeoman do it’s thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and it’s glorious lack of css.  
+  The meat!  Let Yeoman do it’s thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and it’s glorious lack of css.  
 
-![Yo Angular Scaffold](img/angular-yo-scaffold.png "Yo Angular Scaffold")
 
-Let’s fix that up.
+  ![Yo Angular Scaffold](img/angular-yo-scaffold.png "Yo Angular Scaffold")
 
-_Lines 5-6_
+  Let’s fix that up.
 
-Let Bower do it’s thing and get you the latest of Bootstrap and Font-awesome-more and then let npm go and get you Grunt-booty and also Grunt-contrib-less which will compile your Less so that we can actually see the fruit of Grunt-booty in your project.
+* _Lines 5-6_
 
-_Lines 7-8_
+  Let Bower do it’s thing and get you the latest of Bootstrap and Font-awesome-more and then let npm go and get you Grunt-booty and also Grunt-contrib-less which will compile your Less so that we can actually see the fruit of Grunt-booty in your project.
 
-This is a little bit of manual scaffolding so that Grunt-booty has a place to move over Bootstrap and Font-awesome-more.  This step is on the roadmap for Grunt-booty to handle itself as it shouldn’t be a manual task, but for now it is so go ahead and create the `css` and `less` folders and get rid of `main.css` (you could just move it into the `css` folder if you wanted although the Less compile step will do this for you later).
+* _Lines 7-8_
+
+  This is a little bit of manual scaffolding so that Grunt-booty has a place to move over Bootstrap and Font-awesome-more.  This step is on the roadmap for Grunt-booty to handle itself as it shouldn’t be a manual task, but for now it is so go ahead and create the `css` and `less` folders and get rid of `main.css` (you could just move it into the `css` folder if you wanted although the Less compile step will do this for you later).
 
 ### Add the main Less file and tell the index page where to find the project css
 
@@ -137,6 +138,7 @@ grunt server
 
 The Grunt server task was generated when we used Yeoman to generate our project and it creates a server to serve our project and then watches it for changes (at the moment it does some coffee script and compass compilation that we don’t want but we’ll sort that in a minute).
 
+
 ![Yo Angular Scaffold With Bootstrap](img/angular-yo-scaffold-bootstrap.png "Yo Angular Scaffold With Bootstrap")
 
 You should now see in your browser the `index.html` file we looked at earlier but now we have Bootstrap styles in it!  Hurray for the hero unit!
@@ -148,6 +150,7 @@ Open up `app/views/main.html` and change line 2 to include an icon from Font-awe
 ```html
 <h1><i class="icon-github icon-large"></i> 'Allo, 'Allo!</h1>
 ```
+
 
 ![Yo Angular Scaffold With Font-Awesome](img/angular-yo-scaffold-font-awesome.png "Yo Angular Scaffold With Font-Awesome")
 
