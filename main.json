@@ -1,10 +1,20 @@
 {
     "nav" : [
         {"item" : "typography"},
-        {"item" : "soap"}
+        {"item" : "soap"},
+        {"item" : "coding"}
     ],
 
     "recent": [
+        {
+            "post" : {
+                "title"    : "Introducing Grunt-booty",
+                "loc"      : "/introducing-grunt-booty/",
+                "category" : "coding",
+                "date"     : "23rd April 2013",
+                "extract"  : "<p>Grunt-booty is a grunt plugin that compiles Bower installed Bootstrap and Font-Awesome-More Less files into css that is ready to use in your Yeoman scaffolded Angular apps.</p><p class='readmore'><a href='/coding/introducing-grunt-booty/'>Read More</a></p>"
+            }
+        },
         {
             "post" : {
                 "title"    : "Joe Mbu - The Running Staggering Walking Man",
