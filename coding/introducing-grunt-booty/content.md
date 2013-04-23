@@ -50,15 +50,14 @@ Our project is imaginatively titled ‘bootilicious‘, run these at your comman
   Create the directory and move into it, ready to get our project going.
 
 * _Line 4_</br>
-  The meat!  Let Yeoman do it’s thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and it’s glorious lack of css.  
+  The meat!  Let Yeoman do its thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and its glorious lack of css.  
 
 
   ![Yo Angular Scaffold](img/angular-yo-scaffold.png "Yo Angular Scaffold")
-
-  Let’s fix that up.
+  </br>Let’s fix that up.
 
 * _Lines 5-6_</br>
-  Let Bower do it’s thing and get you the latest of Bootstrap and Font-awesome-more and then let npm go and get you Grunt-booty and also Grunt-contrib-less which will compile your Less so that we can actually see the fruit of Grunt-booty in your project.
+  Let Bower do its thing and get you the latest of Bootstrap and Font-awesome-more and then let npm go and get you Grunt-booty and also Grunt-contrib-less which will compile your Less so that we can actually see the fruit of Grunt-booty in your project.
 
 * _Lines 7-8_</br>
   This is a little bit of manual scaffolding so that Grunt-booty has a place to move over Bootstrap and Font-awesome-more.  This step is on the roadmap for Grunt-booty to handle itself as it shouldn’t be a manual task, but for now it is so go ahead and create the `css` and `less` folders and get rid of `main.css` (you could just move it into the `css` folder if you wanted although the Less compile step will do this for you later).
@@ -108,7 +107,7 @@ less: {
 }
 ```
 
-So this is where Grunt-booty happens.  Version 0.2.1 of Grunt-booty uses just two configuration options: the path to the bower components (in our case __Bootstrap__ and __Font-awesome__) and the destination path to place them in (we’ll be placing them into our projects’ `/styles/` directory which helps to keep our project nice and clean and manageable).
+So this is where Grunt-booty happens.  Version 0.2.1 of Grunt-booty uses just two configuration options: the path to the Bower components (in our case __Bootstrap__ and __Font-awesome__) and the destination path to place them in (we’ll be placing them into our projects’ `/styles/` directory which helps to keep our project nice and clean and manageable).
 
 If you’re not using Yeoman to scaffold your project then these two options will still allow you to use Grunt-booty.
 
