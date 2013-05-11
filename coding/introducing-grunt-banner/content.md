@@ -50,17 +50,16 @@ Being a standard variable definition inside your `grunt.initConfig` function it 
 
 The actual task is specified using `usebanner` and takes two parameters:
 
-* `options`
+### `options`
 
-  * _position_ : `top` or `bottom` - where to place the banner
+* _position_ : `top` or `bottom` - where to place the banner
 
-  * _banner_ : The banner to use
+* _banner_ : The banner to use
 
-* `files`
+### `files`
 
-  * _src_ : array of files to add the banner to, `*` is fine
+* _src_ : array of files to add the banner to, `*` is fine
 
-</br>
 
 Here’s a working example from this [Gruntfile](https://github.com/mattstyles/yeoman-angular-express-plus/blob/master/Gruntfile.js):
 
