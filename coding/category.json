@@ -8,6 +8,15 @@
                 "date"     : "23rd April 2013",
                 "extract"  : "<p>Grunt-booty is a grunt plugin that compiles Bower installed Bootstrap and Font-Awesome-More Less files into css that is ready to use in your Yeoman scaffolded Angular apps.</p><p class='readmore'><a href='/coding/introducing-grunt-booty/'>Read More</a></p>"
             }
+        },
+        {
+            "post" : {
+                "title"    : "Introducing Grunt-banner",
+                "loc"      : "/introducing-grunt-banner/",
+                "category" : "coding",
+                "date"     : "11th May 2013",
+                "extract"  : "<p>Hot on the heels of <a href='https://github.com/mattstyles/grunt-booty'>grunt-booty</a> is <a href='https://github.com/mattstyles/grunt-banner'>grunt-banner</a>.  Following along the same lines of creating a quick and simple to use Grunt task, Grunt-banner simply puts some banner text at the top or bottom of a file.  Couldn’t be simpler!</p><p class='readmore'><a href='/coding/introducing-grunt-banner/'>Read More</a></p>"
+            }
         }
     ]
 }
