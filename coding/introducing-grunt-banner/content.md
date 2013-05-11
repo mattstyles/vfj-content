@@ -48,18 +48,7 @@ banner: '/** My Awesome Project\n' +
 
 Being a standard variable definition inside your `grunt.initConfig` function it has full access to [grunt templates](https://github.com/gruntjs/grunt/wiki/grunt.template) using the standard grunt delimiters `<%` and `%>`.
 
-The actual task is specified using `usebanner` and takes two parameters:
-
-### `options`
-
-* _position_ : `top` or `bottom` - where to place the banner
-
-* _banner_ : The banner to use
-
-### `files`
-
-* _src_ : array of files to add the banner to, `*` is fine
-
+The actual task is specified using `usebanner` and takes two parameters, an `options` hash with `position` and `banner` strings, and an array of `files` to add the banner to.
 
 Here’s a working example from this [Gruntfile](https://github.com/mattstyles/yeoman-angular-express-plus/blob/master/Gruntfile.js):
 
