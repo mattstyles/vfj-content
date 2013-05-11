@@ -52,15 +52,13 @@ The actual task is specified using `usebanner` and takes two parameters:
 
 * `options`
 
-_position_ : `top` or `bottom` - where to place the banner
+  * _position_ : `top` or `bottom` - where to place the banner
 
-</br>
-
-_banner_ : The banner to use
+  * _banner_ : The banner to use
 
 * `files`
 
-_src_ : array of files to add the banner to, `*` is fine
+  * _src_ : array of files to add the banner to, `*` is fine
 
 </br>
 
