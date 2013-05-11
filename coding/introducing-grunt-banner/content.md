@@ -8,11 +8,11 @@ Like [Ronseal](http://www.ronseal.co.uk/) it does exactly what it says it does -
 
 ## Using Grunt-banner
 
-_The usage is unlikely to change much but check the [README](https://github.com/mattstyles/grunt-banner) in the repo anyway, also worth checking the build status on github or npm too_
+_The usage is unlikely to change much but check the [README](https://github.com/mattstyles/grunt-banner) in the repo anyway, also worth checking the build status on github or npm too_.</br>
 
-Using Grunt-banner is pretty simple, as you would expect.  Grunt-banner accepts only 2 options - where to place the banner and the text to use as the banner.  Then you feed it the list of files to add the banner to and it does it’s thing.
+Using Grunt-banner is pretty simple, as you would expect.  Grunt-banner accepts only 2 options - where to place the banner and the text to use as the banner.  Then you feed it the list of files to add the banner to and it does it’s thing.</br>
 
-_I’m going to assume you’ve got `node` and `npm` all going and that you’ve got some experience with `grunt`, if not, no worries, have a look [here](http://gruntjs.com/) to get started_
+_I’m going to assume you’ve got `node` and `npm` all going and that you’ve got some experience with `grunt`, if not, no worries, have a look [here](http://gruntjs.com/) to get started_.</br>
 
 So, get Grunt banner installed in your project:
 
@@ -46,13 +46,13 @@ The actual task is specified using `usebanner` and takes two parameters:
 
 * `options`
 
-_position_ : `top` or `bottom` - where to place the banner
+_position_ : `top` or `bottom` - where to place the banner</br>
 
 _banner_ : The banner to use
 
 * `files`
 
-_src_ : array of files to add the banner to, `*` is fine
+_src_ : array of files to add the banner to, `*` is fine</br>
 
 Here’s a working example from this [Gruntfile](https://github.com/mattstyles/yeoman-angular-express-plus/blob/master/Gruntfile.js):
 
