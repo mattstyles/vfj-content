@@ -70,13 +70,15 @@ Note the use of the grunt template delimiters to specify parameters and also the
 
 `Grunt-banner` only adds a banner on to a file, if you want files concatenated or minified then use whichever tasks you would normally run and use the `grunt-banner` task to add a banner to your final files.
 
+</br>
+
 _Have fun_
 
 ### Links
 
-[grunt-banner on npm](https://npmjs.org/package/grunt-banner)
+* [grunt-banner on npm](https://npmjs.org/package/grunt-banner)
 
-[grunt-banner on github](https://github.com/mattstyles/grunt-banner)
+* [grunt-banner on github](https://github.com/mattstyles/grunt-banner)
 
 Be sure to use `npm star grunt-banner`!
 
