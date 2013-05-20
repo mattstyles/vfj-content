@@ -26,7 +26,7 @@ So, get Grunt banner installed in your project:
 npm install grunt-banner --save-dev
 ```
 
-Then load it as a task in the your Gruntfile:
+Then load it as a task in your Gruntfile:
 
 ```js
 grunt.loadNpmTasks('grunt-banner');
