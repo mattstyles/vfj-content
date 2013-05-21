@@ -1,4 +1,4 @@
-# Tying up loose ends
+# Tidying up loose ends
 
 So lately I’ve been thinking a lot about tying up all the loose ends that are fractured all over stuff that I’m doing.  It wasn’t until I started clearing them all up that I realised what a pain (and a burden) they were becoming.
 
