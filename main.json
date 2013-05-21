@@ -1,8 +1,8 @@
 {
     "nav" : [
+        {"item" : "coding"},
         {"item" : "typography"},
-        {"item" : "soap"},
-        {"item" : "coding"}
+        {"item" : "soap"}
     ],
 
     "recent": [
