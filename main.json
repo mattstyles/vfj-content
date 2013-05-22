@@ -48,7 +48,7 @@
                 "loc"      : "/junction/",
                 "category" : "typography",
                 "date"     : "16th March 2013",
-                "extract"  : "<p class='text-center'><img src='/typography/junction/img/junction-3.png'/></p><p class='readmore'><a href='/typography/junction/'>Read More</a></p>"
+                "extract"  : "<p class='text-center'><img src='/typography/junction/img/junction-3.png'/></p><p class='text-center readmore'><a href='/typography/junction/'>Read More</a></p>"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "loc"      : "/georgia/",
                 "category" : "soap",
                 "date"     : "9th March 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/georgia/img/georgiaSepiaCut.jpg'/></div>"
+                "extract"  : "<div class='text-center'><img src='/soap/georgia/img/georgiaSepiaCut.jpg'/></div><p class='text-center readmore'><a href='/soap/georgia/'>Read More</a></p>"
             }
         }
     ]

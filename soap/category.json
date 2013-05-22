@@ -33,7 +33,7 @@
                 "loc"      : "/georgia/",
                 "category" : "soap",
                 "date"     : "9th March 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/georgia/img/georgiaSepiaCut.jpg'/></div><p class='readmore'><a href='/soap/georgia/'>Read More</a></p>"
+                "extract"  : "<div class='text-center'><img src='/soap/georgia/img/georgiaSepiaCut.jpg'/></div><p class='text-center readmore'><a href='/soap/georgia/'>Read More</a></p>"
             }
         }
     ]
