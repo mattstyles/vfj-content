@@ -6,7 +6,7 @@ Sometimes you feel like a higher force is conspiring to bring you towards someth
 
 The premise is simple, you have three lives and must face a challenge in each of the extremely short ‘levels’.  The challenge really heats up as the levels get progressively faster.  
 
-Hardly an original idea for a game but this game is free promotional game to accompany a film for the Australian Metro to raise awareness of safety around trains, and it is loaded with character and fun.
+Hardly an original idea for a game but this game is a free promotional game to accompany a film for the Australian Metro to raise awareness of safety around trains, and it is loaded with character and fun.
 
 ### Piranha Man
 
