@@ -2,6 +2,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Dumb Ways To Die",
+                "loc"      : "/dumb-ways-to-die/",
+                "category" : "soap",
+                "date"     : "28th May 2013",
+                "extract"  : "<div class='text-center'><img src='/soap/dumb-ways-to-die/img/defend.png'/></div><p class='text-center readmore'><a href='/soap/dumb-ways-to-die/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Tidying up loose ends",
                 "loc"      : "/tidying-up-loose-ends/",
                 "category" : "soap",
