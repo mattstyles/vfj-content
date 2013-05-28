@@ -28,7 +28,7 @@ I couldn’t resist the opportunity to _defend the private parts_ from piranha a
 
 ---
 
-_Update: Since writing this the app has gone to the top of the free downloads!  Never in doubt.
+_Update: Since writing this the app has gone to the top of the free downloads!  Never in doubt._
 
 ---
 
