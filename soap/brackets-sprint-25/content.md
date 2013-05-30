@@ -2,6 +2,8 @@
 
 <div class="text-center">![Brackets](img/brackets.png)</div>
 
+</br>
+
 If you’re anything like me then you are a little choosy in what you want from your text editor or IDE.  I like a minimalist feel and I don’t really want all the extra clutter and weight you get with a dedicated and mature IDE but I want a little more than [vim](http://www.vim.org/) as my full-time coding environment (although I love vim).  This sounds like a job for Brackets.
 
 ### Enter Brackets
@@ -24,9 +26,9 @@ If you’re using Brackets on a Mac then you get the Mac way of ordering items a
 
 Normally with a text editor this would be done via the preferences, no big deal.  As of yet Brackets has no easily configurable preferences and it could be that whichever editor you’re using doesn’t support file organisation like this so you’d be stuck.  Not so with Brackets, we can change that right up if we’re comfortable with javascript.
 
-_If you haven’t already got Brackets up and running then head on over to the [download section](http://download.brackets.io/) and get yourself the latest build, currently sprint 25_
+_If you haven’t already got Brackets up and running then head on over to the [download section](http://download.brackets.io/) and get yourself the latest build, currently sprint 25._
 
-With Brackets installed we want to do a little digging into the meat of it and find out what we want to change so open up finder, right click on the Brackets Sprint 25 application (or whichever sprint is current), show package contents and navigate through `/contents/www` to have a look at what Brackets really is.
+With Brackets installed we want to do a little digging into the meat of it and find out what we want to change so open up finder, right click on the Brackets Sprint 25 application (or whichever sprint is current), show package contents and navigate through to `/contents/www/` to have a look at what Brackets really is.
 
 The vast majority of Brackets is written using Javascript, CSS (specifically the [Less](http://www.lesscss.org/) flavour) and HTML.
 
@@ -127,5 +129,5 @@ Want to discuss this article?  Hit me up [@veryfizzyjelly](https://twitter.com/v
 
 ---
 
-Posted in [Soap](../"soap") on May 30th 2013.  _Brackets_
+Posted in [Soap](../ "soap") on May 30th 2013.  _Brackets_
 
