@@ -38,7 +38,7 @@ The file we’re actually after is `ProjectManager.js` which holds all sorts of 
 
 So you should be looking at `ProjectManager.js` in Brackets (yes, the irony of developing Brackets __on__ Brackets should make the world explode, like Googling _Google_) and the function we need to _fiddle_ with is the `sort` function which looks like this (in sprint 25):
 
-```js
+```javascript
 sort :  function (a, b) {
   if (brackets.platform === "win) {
     // Windows: prepend folder names with a '0' and file names with a '1' so folders are listed first
@@ -55,7 +55,7 @@ So all this function does is differentiate by platform and do some trickery usin
 
 If we were writing this as an extension then we might want to do something more complex but all we want is to be able to order files by type so we just want to make sure the first clause of the `if` statement gets executed, so, change line 473 of sprint 25 to do just that:
 
-```js
+```javascript
 if (brackets.platform === "win" || true) {
 ```
 
@@ -67,7 +67,7 @@ While we’re hacking about in `ProjectManager.js` there’s another useful area
 
 Brackets has such an exclusion list and until there are preferences to pick what to exclude we’ll have to hack in there and exclude them manually.  The quick search (using cmd-F) for likely places where such a function would exist throws up the `shouldShow` function (on line 640 of sprint 25):
 
-```js
+```javascript
 function shouldShow(entry) {
   if ([".git",
        ".gitignore",
