@@ -12,7 +12,7 @@
                 "loc"      : "/brackets-sprint-25/",
                 "category" : "soap",
                 "date"     : "30th May 2013",
-                "extract"  : "<p>If you’re anything like me then you are a little choosy in what you want from your text editor or IDE.  I like a minimalist feel and I don’t really want all the extra clutter and weight you get with a dedicated and mature IDE but I want a little more than [vim](http://www.vim.org/) as my full-time coding environment (although I love vim).  This sounds like a job for Brackets.</p><p class='readmore'><a href='/soap/brackets-sprint-25/'>Read More</a></p>"
+                "extract"  : "<p>If you’re anything like me then you are a little choosy in what you want from your text editor or IDE.  I like a minimalist feel and I don’t really want all the extra clutter and weight you get with a dedicated and mature IDE but I want a little more than <a href='http://www.vim.org/'>vim</a> as my full-time coding environment (although I love vim).  This sounds like a job for Brackets.</p><p class='readmore'><a href='/soap/brackets-sprint-25/'>Read More</a></p>"
             }
         },
         {
