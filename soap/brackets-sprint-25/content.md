@@ -40,7 +40,7 @@ So you should be looking at `ProjectManager.js` in Brackets (yes, the irony of d
 
 ```javascript
 sort :  function (a, b) {
-  if (brackets.platform === "win) {
+  if (brackets.platform === "win") {
     // Windows: prepend folder names with a '0' and file names with a '1' so folders are listed first
     var a1 = ($(a).hasClass("jstree-leaf") ? "1" : "0") + this.get_text(a).toLowerCase(),
         b1 = ($(b).hasClass("jstree-leaf") ? "1" : "0") + this.get_text(b).toLowerCase();
