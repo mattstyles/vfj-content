@@ -152,9 +152,13 @@ If you’re seeing the nice Github icon in the title then everything has worked 
 
 As we’re using less and we’ve added the less compilation task to the Gruntfile you can go ahead and strip out the compass tasks from the Gruntfile and even `npm uninstall grunt-contrib-compass` to tidy up.  I don’t tend to use coffee-script either so that gets stripped out for me as well.
 
----
+### Links
 
-If you found this task useful then make sure to hit the star button on [github](https://github.com/mattstyles/grunt-booty)
+* [grunt-banner on npm](https://npmjs.org/package/grunt-booty)
+
+* [grunt-banner on github](https://github.com/mattstyles/grunt-booty)
+
+If you found this task useful then make sure to hit the star button on [github](https://github.com/mattstyles/grunt-booty) and use `npm star grunt-booty`
 
 ---
 
