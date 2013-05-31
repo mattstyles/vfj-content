@@ -24,7 +24,7 @@ But for now Grunt-booty is a Grunt task; if you’re using Grunt to build your p
 
 ## Using Grunt-booty
 
-_Grunt-booty is currently at v0.2.x, keep up with the docs on [Github](https://github.com/mattstyles/grunt-booty) for the latest additions and instructions to use the plugin_ 
+_Grunt-booty is currently at v0.2.x, keep up with the docs on [Github](https://github.com/mattstyles/grunt-booty) for the latest additions and instructions to use the plugin_
 
 The initial use-case for Grunt-booty was to add Bootstrap and Font-awesome-more to a Yeoman scaffolded Angular app so the following steps will do just that and you’ll end up with a project with the css bits ready to go _(this will be fairly detailed but if you just skip through the steps they are really simple and shouldn’t take more than a few minutes to complete, future versions of Grunt-booty should remove several of these steps to make things even easier)_:
 
@@ -50,7 +50,7 @@ Our project is imaginatively titled ‘bootilicious‘, run these at your comman
   Create the directory and move into it, ready to get our project going.
 
 * _Line 4_</br>
-  The meat!  Let Yeoman do its thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and its glorious lack of css.  
+  The meat!  Let Yeoman do its thing and scaffold out the bulk of the project for you, it’ll prompt you for a few things, hit `n` for the Bootstrap stuff and do what you like with the additional Angular stuff, I normally like to use it so include it.  Stick some coffee on, it normally takes a few minutes—it‘ll do a Bower and npm install of all the various pieces you’ll need and then you’ll have a project ready to go.  If you want to have a look at the output then hit up `Grunt server` and you’ll see the generated index page and its glorious lack of css.
 
 
   ![Yo Angular Scaffold](img/angular-yo-scaffold.png "Yo Angular Scaffold")
@@ -86,7 +86,7 @@ You might notice that your IDE or text editor is telling you that the import fil
 
 Yeoman will have scaffolded out your project with a meaty and extremely useful Gruntfile so let’s add to that by configuring the Grunt-booty and Grunt-contrib-less tasks.  Open up Gruntfile.js and add these tasks to the `initConfig` object:
 
-```js
+```javascript
 booty: {
   dev: {
     options: {
@@ -120,7 +120,7 @@ grunt less
 
 Grunt booty will have gone and got Bootstrap and Font-awesome from the Bower install and placed them into `/styles/`, doing a little bit of poking around at the same time to ensure that the paths to the font icons are still valid.
 
-Earlier on we set up our `main.less` file to import the stuff we wanted into our project and the `grunt less` task just compiles that file into `main.css` ready for `index.html` to grab it when we run it.  
+Earlier on we set up our `main.less` file to import the stuff we wanted into our project and the `grunt less` task just compiles that file into `main.css` ready for `index.html` to grab it when we run it.
 
 ### The fruit - our project with styles applied
 
@@ -151,6 +151,10 @@ Open up `app/views/main.html` and change line 2 to include an icon from Font-awe
 If you’re seeing the nice Github icon in the title then everything has worked and you’re now ready to do the actual job of creating your awesome project.  All in all, including downloading time, it shouldn’t have taken more than 5 minutes to get your project, with css, ready to rock.
 
 As we’re using less and we’ve added the less compilation task to the Gruntfile you can go ahead and strip out the compass tasks from the Gruntfile and even `npm uninstall grunt-contrib-compass` to tidy up.  I don’t tend to use coffee-script either so that gets stripped out for me as well.
+
+---
+
+If you found this task useful then make sure to hit the star button on [github](https://github.com/mattstyles/grunt-booty)
 
 ---
 

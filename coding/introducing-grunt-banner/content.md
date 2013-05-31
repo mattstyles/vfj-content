@@ -28,19 +28,19 @@ npm install grunt-banner --save-dev
 
 Then load it as a task in your Gruntfile:
 
-```js
+```javascript
 grunt.loadNpmTasks('grunt-banner');
 ```
 
 If you’re using [Tyler Kellen’s](http://goingslowly.com/) [dependency matching task](https://github.com/tkellen/node-matchdep/) then it’s even easier, this line of javascript will include Grunt-banner along with all your other grunt-* tasks:
 
-```js
+```javascript
 require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 ```
 
 Now that Grunt knows all about the task it’s time to specify what it should do for you, firstly create a banner object _(this step is not required, you could specify it straight into the task)_:
 
-```js
+```javascript
 banner: '/** My Awesome Project\n' +
 	' * Created at <%= grunt.template.today("dd-mm-yyyy") %>\n' +
 	' */'
@@ -52,7 +52,7 @@ The actual task is specified using `usebanner` and takes two parameters, an `opt
 
 Here’s a working example from this [Gruntfile](https://github.com/mattstyles/yeoman-angular-express-plus/blob/master/Gruntfile.js):
 
-```js
+```javascript
 usebanner: {
   options: {
     position: 'top',
@@ -88,4 +88,4 @@ Want to discuss this article?  Hit me up [@veryfizzyjelly](https://twitter.com/v
 
 ---
 
-Posted in [Coding](../ "Coding") on 11th May 2013.  _Grunt-banner_, _Gruntplugin_, 
+Posted in [Coding](../ "Coding") on 11th May 2013.  _Grunt-banner_, _Gruntplugin_,
