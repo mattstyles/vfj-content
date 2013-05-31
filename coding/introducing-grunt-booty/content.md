@@ -154,9 +154,9 @@ As we’re using less and we’ve added the less compilation task to the Gruntfi
 
 ### Links
 
-* [grunt-banner on npm](https://npmjs.org/package/grunt-booty)
+* [grunt-booty on npm](https://npmjs.org/package/grunt-booty)
 
-* [grunt-banner on github](https://github.com/mattstyles/grunt-booty)
+* [grunt-booty on github](https://github.com/mattstyles/grunt-booty)
 
 If you found this task useful then make sure to hit the star button on [github](https://github.com/mattstyles/grunt-booty) and use `npm star grunt-booty`
 
