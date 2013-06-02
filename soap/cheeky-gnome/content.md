@@ -6,4 +6,4 @@ Canon 650d and 70-300mm lens.  Post-processing via Lightroom.
 
 ---
 
-Posted in [Soap](../ "Soap") on June 1st 2013.  _Canon 650d_, _photography_, _Gnome_
+Posted in [Soap](../ "Soap") on June 1st 2013.  _Canon 650d_, _Photography_, _Gnome_
