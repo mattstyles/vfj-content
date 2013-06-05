@@ -1,0 +1,31 @@
+{
+    "recent": [
+        {
+            "post" : {
+                "title"    : "The Bank",
+                "loc"      : "/the-bank/",
+                "category" : "photography",
+                "date"     : "2nd June 2013",
+                "extract"  : "<div class='text-center'><img src='/photography/the-bank/img/bank.jpg'/></div><p class='text-center readmore'><a href='/photography/the-bank/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
+                "title"    : "Cheeky Gnome",
+                "loc"      : "/cheeky-gnome/",
+                "category" : "photography",
+                "date"     : "1st June 2013",
+                "extract"  : "<div class='text-center'><img src='/photography/cheeky-gnome/img/cheekyGnome.jpg'/></div><p class='text-center readmore'><a href='/photography/cheeky-gnome/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
+                "title"    : "Georgia",
+                "loc"      : "/georgia/",
+                "category" : "soap",
+                "date"     : "9th March 2013",
+                "extract"  : "<div class='text-center'><img src='/photography/georgia/img/georgiaSepiaCut.jpg'/></div><p class='text-center readmore'><a href='/photography/georgia/'>Read More</a></p>"
+            }
+        }
+    ]
+}

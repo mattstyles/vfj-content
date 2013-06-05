@@ -2,24 +2,6 @@
     "recent": [
         {
             "post" : {
-                "title"    : "The Bank",
-                "loc"      : "/the-bank/",
-                "category" : "soap",
-                "date"     : "2nd June 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/the-bank/img/bank.jpg'/></div><p class='text-center readmore'><a href='/soap/the-bank/'>Read More</a></p>"
-            }
-        },
-        {
-            "post" : {
-                "title"    : "Cheeky Gnome",
-                "loc"      : "/cheeky-gnome/",
-                "category" : "soap",
-                "date"     : "1st June 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/cheeky-gnome/img/cheekyGnome.jpg'/></div><p class='text-center readmore'><a href='/soap/cheeky-gnome/'>Read More</a></p>"
-            }
-        },
-        {
-            "post" : {
                 "title"    : "Brackets Sprint 25",
                 "loc"      : "/brackets-sprint-25/",
                 "category" : "soap",
@@ -61,15 +43,6 @@
                 "category" : "soap",
                 "date"     : "11th March 2013",
                 "extract"  : "<p>Interaction design, according to Wikipedia (amongst others) is “about shaping digital things for people’s use”, or, “the practise of designing interactive digital products, environments, systems and services”.  Surely this definition is even more prevalent today to the discipline of designing products for the web than it ever has been?</p><p class='readmore'><a href='/soap/on-the-subject-of-interaction-design/'>Read More</a></p>"
-            }
-        },
-        {
-            "post" : {
-                "title"    : "Georgia",
-                "loc"      : "/georgia/",
-                "category" : "soap",
-                "date"     : "9th March 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/georgia/img/georgiaSepiaCut.jpg'/></div><p class='text-center readmore'><a href='/soap/georgia/'>Read More</a></p>"
             }
         }
     ]

@@ -1,5 +1,6 @@
 {
     "nav" : [
+        {"item" : "photography"},
         {"item" : "coding"},
         {"item" : "typography"},
         {"item" : "soap"}
@@ -10,18 +11,18 @@
             "post" : {
                 "title"    : "The Bank",
                 "loc"      : "/the-bank/",
-                "category" : "soap",
+                "category" : "photography",
                 "date"     : "2nd June 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/the-bank/img/bank.jpg'/></div><p class='text-center readmore'><a href='/soap/the-bank/'>Read More</a></p>"
+                "extract"  : "<div class='text-center'><img src='/photography/the-bank/img/bank.jpg'/></div><p class='text-center readmore'><a href='/photography/the-bank/'>Read More</a></p>"
             }
         },
         {
             "post" : {
                 "title"    : "Cheeky Gnome",
                 "loc"      : "/cheeky-gnome/",
-                "category" : "soap",
+                "category" : "photography",
                 "date"     : "1st June 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/cheeky-gnome/img/cheekyGnome.jpg'/></div><p class='text-center readmore'><a href='/soap/cheeky-gnome/'>Read More</a></p>"
+                "extract"  : "<div class='text-center'><img src='/photography/cheeky-gnome/img/cheekyGnome.jpg'/></div><p class='text-center readmore'><a href='/photography/cheeky-gnome/'>Read More</a></p>"
             }
         },
         {
@@ -100,9 +101,9 @@
             "post" : {
                 "title"    : "Georgia",
                 "loc"      : "/georgia/",
-                "category" : "soap",
+                "category" : "photography",
                 "date"     : "9th March 2013",
-                "extract"  : "<div class='text-center'><img src='/soap/georgia/img/georgiaSepiaCut.jpg'/></div><p class='text-center readmore'><a href='/soap/georgia/'>Read More</a></p>"
+                "extract"  : "<div class='text-center'><img src='/photography/georgia/img/georgiaSepiaCut.jpg'/></div><p class='text-center readmore'><a href='/photography/georgia/'>Read More</a></p>"
             }
         }
     ]
