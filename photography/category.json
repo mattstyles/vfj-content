@@ -2,6 +2,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "It’s all in the eyes",
+                "loc"      : "/its-all-in-the-eyes/",
+                "category" : "photography",
+                "date"     : "5th June 2013",
+                "extract"  : "<div class='text-center'><img src='/photography/its-all-in-the-eyes/img/eyes-over-sm.jpg'/></div><p class='text-center readmore'><a href='/photography/its-all-in-the-eyes/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "The Bank",
                 "loc"      : "/the-bank/",
                 "category" : "photography",
