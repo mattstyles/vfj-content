@@ -8,9 +8,11 @@ One technique that I have been using recently (although I haven’t always had a
 
 The shot above has undergone fairly heavy processing but it isn’t the same without a quick upping of exposure and contrast to the eyes which really help them to pop.
 
-Here’s another treatment of the same photo but with the same technique used on the eyes.
+These photos (including a different treatment of the above) have also benefitted from a little extra detail being brought forward.
 
 ![Vintage Eyes](img/eyes-vintage.jpg)
+
+![Vintage Eyes 02](img/eyes-vintage-02.jpg)
 
 ---
 
