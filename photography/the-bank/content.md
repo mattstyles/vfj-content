@@ -16,4 +16,4 @@ I think I could probably have also used a graduated filter starting somewhere ju
 
 ---
 
-Posted in [Soap](../ "Soap") on June 2nd 2013.  _Canon 60d_, _Photography_, _RailwayBank_
+Posted in [Photography](../ "Photography") on June 2nd 2013.  _Canon 60d_, _Photography_, _RailwayBank_

@@ -8,4 +8,4 @@ _update 28.03.13_: I’m proud to say that this quick, humble photo has been on 
 
 ---
 
-Posted in [Soap](../ "Soap") on March 9th 2013.  _Canon 650d_, _photography_, _Georgia_, _GG_
+Posted in [Photography](../ "Photography") on March 9th 2013.  _Canon 650d_, _photography_, _Georgia_, _GG_
