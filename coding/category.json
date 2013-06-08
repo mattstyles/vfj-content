@@ -2,6 +2,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Speed up working with arrays",
+                "loc"      : "/local-variable-vs-array-access",
+                "category" : "coding",
+                "date"     : "8th June 2013",
+                "extract"  : "<p>This is an old tip, but still a good one: when iterating over an array it is usually preferable to assign the subject of the current iteration to a local variable than it is to use array access multiple times.</p><p>I’m still a little <a href='http://www.urbandictionary.com/define.php?term=old%20school'>old school</a> and try to limit the number of local variables but there are times when doing so offers a number of benefits.</p><p class='readmore'><a href='/coding/local-variable-vs-array-access/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Introducing Grunt-banner",
                 "loc"      : "/introducing-grunt-banner/",
                 "category" : "coding",
