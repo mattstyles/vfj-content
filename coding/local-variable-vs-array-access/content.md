@@ -29,7 +29,7 @@ for ( i = 0; i < array.length; i = i + 1 ) {
 }
 ```
 
-The efficiency benefit is of some importance[\[1](http://jsperf.com/local-variable-or-array-lookup)\] but there are other benefits too.
+The efficiency benefit is of some importance\[[1](http://jsperf.com/local-variable-or-array-lookup)\] but there are other benefits too.
 
 The first extra benefit is readability.  If your `for` loop spans multiple lines (it could, with comments, reach many many lines) and using the subject of the iteration (i.e. `item`) seems more intuitive (and is likely less error prone as there is less syntax to type correctly) than remembering to access the array which contains the subject using the `index` of the iteration.
 
