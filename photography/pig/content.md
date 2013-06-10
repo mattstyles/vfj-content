@@ -1,6 +1,6 @@
 # Pig Bacon Bacon Pig
 
-<div> ![Pig Bacon Bacon Pig](img/pig.jpg "Pig Bacon Bacon Pig") </div>
+<div> ![Pig Bacon Bacon Pig](img/pig_m.jpg "Pig Bacon Bacon Pig") </div>
 
 _Anyone for Bacon?_
 
