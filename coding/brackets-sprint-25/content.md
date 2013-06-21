@@ -129,5 +129,5 @@ Want to discuss this article?  Hit me up [@veryfizzyjelly](https://twitter.com/v
 
 ---
 
-Posted in [Soap](../ "soap") on May 30th 2013.  _Brackets_
+Posted in [Coding](../ "coding") on May 30th 2013.  _Brackets_
 
