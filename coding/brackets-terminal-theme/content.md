@@ -34,7 +34,7 @@ _The exact steps are subject to change from sprint to sprint but the basic premi
 
 Navigate to __Help|Show Extensions Folder__ and your OS will open up the folder that houses your extensions.  On a Mac it will be somewhere like this:
 
-![Extension Location](img/extension-location.png)
+![Extension Location](img/extension-location.jpg)
 
 The themes manager you’ve just downloaded from _Step 2_ is located in the __themes__ folder.
 
