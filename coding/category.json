@@ -2,6 +2,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Brackets Terminal Theme",
+                "loc"      : "/brackets-terminal-theme/",
+                "category" : "coding",
+                "date"     : "6th July 2013",
+                "extract"  : "<div class='text-center'><img src='/coding/brackets-terminal-theme/img/terminal.jpg'/></div><p>Adding a custom theme or tweaking an existing theme for your own tastes using Brackets is really easy, quick and flexible.  The following short steps should help you get started shaping the look the feel of Brackets.</p><p class='readmore'><a href='/coding/brackets-terminal-theme/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Brackets Sprint 25",
                 "loc"      : "/brackets-sprint-25/",
                 "category" : "coding",
