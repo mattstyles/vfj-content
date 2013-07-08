@@ -42,17 +42,17 @@ There isn’t much going on in this folder, there are a couple of files that con
 
 ### 4 Use Brackets To Code Brackets
 
-Like Googling _'Google'_, this step may sound like the world is about to implode but it probably won’t.  Open up the themes folder in Brackets and have a look at a couple of the _.css_ folders that define the theme.
+Like Googling _'Google'_, this step may sound like the world is about to implode but it probably won’t.  Open up the themes folder in Brackets and have a look at a couple of the _.css_ files that define the theme.
 
-Yes, you read that right, Brackets uses a language that excels at creating presentation rules to define it’s presentation.  Simple and brilliant.
+Yes, you read that right, _.css_,  Brackets uses a language that excels at creating presentation rules to define it’s presentation.  Simple and brilliant.
 
 ### 5 Download terminal.css
 
-My own theme that I am using is [terminal.css](https://github.com/mattstyles/brackets-theme-terminal).  I wanted a theme that is clear, uncluttered and focusses on code and constructs _within_ the code.  Terminal is the product—a highly readable theme that makes the code the integral part.  
+My own theme that I am using is [terminal.css](https://github.com/mattstyles/brackets-theme-terminal).  I wanted a theme that is clear, uncluttered and focusses on code and constructs _within_ the code.  Terminal is the product—a highly readable theme that makes the code the integral part.
 
 As Brackets uses CSS to control it’s looks you have an amazing amount of control over the look and feel of Brackets just by applying (or tweaking) a few simple style guidelines although you could go diving into the code to make more drastic changes—the code is well organised and well documented but it is still developing so if you go poking around in core then your changes will be over-ridden when you download and use new sprints, you could circumvent this by [creating an extension](https://github.com/adobe/brackets/wiki/How-to-write-extensions) of course.
 
-Go ahead and download __terminal.css__ from Github and place it into the __themes/theme__ folder within your __extensions__ folder.
+Go ahead and download __terminal.css__ from [Github](https://github.com/mattstyles/brackets-theme-terminal) and place it into the __themes/theme__ folder within your __extensions__ folder.
 
 > I use [Source Code Pro](https://github.com/adobe/source-code-pro) as my coding font and the theme will use that if available, it fits great with Brackets so go get it!
 
@@ -62,7 +62,7 @@ For this theme to show up you’ll probably need to restart Brackets, the simple
 
 ### 7 Start Developing Your Theme
 
-If you don’t like some aspects of _Terminal_, or any other theme, then open up the relevant _css_ file and start changing some rules.  
+If you don’t like some aspects of _Terminal_, or any other theme, then open up the relevant _css_ file and start changing some rules.
 
 I’m big into colour theory so I did a fair amount of research into which colours to use where but you can be more cavalier until you find colour combinations that suit you.
 
