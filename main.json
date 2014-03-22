@@ -9,6 +9,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Atom Beta",
+                "loc"      : "/atom-beta/",
+                "category" : "coding",
+                "date"     : "22nd March 2014",
+                "extract"  : "<p>In truth, Brackets has been pretty good to me. Despite taking some flak for it, I’ve staunchly defended a _browserified_ editor and, by and large, Brackets has been a good friend.  In short, we’ve had a rather pleasing arrangement. However, that relationship may be ending very soon.</p><p>One of the latest offerings from Github is Atom, which, in it’s own words, is an editor for modern hacking.</p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Brackets Terminal Theme",
                 "loc"      : "/brackets-terminal-theme/",
                 "category" : "coding",
