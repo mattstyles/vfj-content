@@ -9,6 +9,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Battle For The Net",
+                "loc"      : "/battle-for-the-net/",
+                "category" : "soap",
+                "date"     : "10th Sept 2014",
+                "extract"  : "<p>Fight for the future, battle for the net, because it’s that important.</p><p class='text-center readmore'><a href='/soap/battle-for-the-net/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Atom Beta",
                 "loc"      : "/atom-beta/",
                 "category" : "coding",
