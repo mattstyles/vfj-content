@@ -14,7 +14,9 @@ On September 10th, just a few days before the FCC’s comment deadline, public i
 
 If you’ve got a website, blog or tumblr, get the code to join the #InternetSlowdown here: [https://battleforthenet.com/sept10th](https://battleforthenet.com/sept10th)
 
-Everyone else, here’s a quick list of things you can do to help spread the word about the slowdown: [http://tumblr.fightforthefuture.org/post/96020972118/be-a-part-of-the-great-internet-slowdown](http://tumblr.fightforthefuture.org/post/96020972118/be-a-part-of-the-great-internet-slowdown)
+Everyone else, here’s a quick list of things you can do to help spread the word about the slowdown:
+
+[http://tumblr.fightforthefuture.org/post/96020972118/be-a-part-of-the-great-internet-slowdown](http://tumblr.fightforthefuture.org/post/96020972118/be-a-part-of-the-great-internet-slowdown)
 
 Get creative! Don’t let us tell you what to do. See you on the net September 10th!
 
