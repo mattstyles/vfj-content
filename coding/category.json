@@ -2,6 +2,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Jumping In",
+                "loc"      : "/jumping-in/",
+                "category" : "coding",
+                "date"     : "23rd September 2014",
+                "extract"  : "<div class='text-center'><img src='/coding/jumping-in/img/ludumdare.png'/></div><p>So, I’m going to do it. I’ve checked with Kate, she’s happy enough about it. I’m going to enter Ludum Dare this year. This is my official public announcement.</p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Atom Beta",
                 "loc"      : "/atom-beta/",
                 "category" : "coding",
