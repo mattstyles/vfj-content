@@ -7,12 +7,15 @@ This, of course, won’t result in an entry to the competition but it should hop
 My new rules are something like this:
 
 * 30 hours active development time. Yes, the competition stipulates 48 hours but that’s 48 hours flat, in all honesty I’d probably aim for around 12 hours sleeping during that time and I’ve knocked off another 6 hours for other tasks that wouldn’t be active development during the 2 day period. 30 hours is probably still too long but it sounds fair.
+
 * In conjunction with the competition rules, the 30 hours does not need to include time for a build and deployment system, I already had the bones of that anyway, but, it will include any time spent bending that build system or improving it.
 * Repo starts clean of code and assets.
+
 * I’ll be keeping a journal/log of where I’m spending time. This is mostly a time-keeping exercise to make sure I don’t slip over. Time spent recording my time doesn’t count towards the 30 hours.
+
 * The 30 hours isn’t going to be straight, otherwise I’d stick to the original rules. The only way it’s going to work for me is a couple of hours a night. Now, I can’t turn my brain off so I will be thinking about the project outside of the 30 hours, which is huge massive great big advantage. Get over it, I’m not entering, this is just for funsies.
 
-These new rules I think are keeping in spirit with the competition; I lose the camaraderie but I gain loads of time in between active development sessions, all in all, I’m probably well up on the deal but this is the only I can make it work and keep in the spirit of things. Hopefully the next competition will be different.
+These new rules I think are keeping in spirit with the competition; I lose the camaraderie but I gain loads of time in between active development sessions, all in all, I’m probably well up on the deal but this is the only way I can make it work and keep in the spirit of things. Hopefully the next competition will be different.
 
 ## Game on a Screen
 
