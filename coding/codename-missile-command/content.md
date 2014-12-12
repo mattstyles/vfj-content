@@ -35,7 +35,9 @@ There will be a couple of buttons along the top or side which also let you perfo
 
 The task is to build factories to build missiles and/or defenses and blow up everybody else.
 
-*No diplomacy*
+</br>
+*No diplomacy.*
+</br>
 
 This is a point and click jobby, no time to code in diplomacy, you have one objective, *blow them all to pieces*.
 
