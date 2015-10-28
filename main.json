@@ -9,6 +9,15 @@
     "recent": [
         {
             "post" : {
+                "title"    : "Moving On",
+                "loc"      : "/moving-on/",
+                "category" : "soap",
+                "date"     : "28th Oct 2015",
+                "extract"  : "<p>So, this is it, the end of a road. I wrote this blogging platform many many years ago when I had very little clue what I was doing and it is time to admit that it is time to move on from it.</p><p>Yet, I feel a tug of nostalgia.</p><p class='text-center readmore'><a href='/soap/moving-on/'>Read More</a></p>"
+            }
+        },
+        {
+            "post" : {
                 "title"    : "Codename Missile Command",
                 "loc"      : "/codename-missile-command/",
                 "category" : "coding",
